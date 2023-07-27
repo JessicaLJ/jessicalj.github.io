@@ -24,7 +24,7 @@ Keystroke Recognition with the Tapping Sound Recorded by Mobile Phone Microphone
 Zhen Xiao, Tao Chen, Yang Liu, **Jiao Li**, Zhenjiang Li  
 IEEE Transactions on Mobile Computing, 2022
 
-Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey
+Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey  
 **Jiao Li**, Yang Liu, Tao Chen, Zhen Xiao, Zhenjiang Li, Jianping Wang  
 IEEE Internet of Things Journal, 2020
 
