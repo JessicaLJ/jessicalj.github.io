@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher advised by Prof. Jin Zhang in the Department of Computer Science and Engineering, Southern University of Science and Technology. I received the B.E. degree in Software Engineering from Xidian University, Shaanxi, China in 2018 and the Ph.D. degree in Computer Science advised by Prof. Zhenjiang Li from City University of Hong Kong, Hong Kong, China in 2023.
+I am currently a postdoctoral researcher advised by [Prof. Jin Zhang](https://faculty.sustech.edu.cn/?tagid=zhangj4&iscss=1&snapid=1&orderby=date&go=1&lang=en) in the Department of Computer Science and Engineering, Southern University of Science and Technology. I received the B.E. degree in Software Engineering from Xidian University, Shaanxi, China in 2018 and the Ph.D. degree in Computer Science advised by [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/) from City University of Hong Kong, Hong Kong, China in 2023.
 
 News
 ======
