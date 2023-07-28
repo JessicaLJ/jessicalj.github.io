@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a postdoctoral researcher advised by [Prof. Jin Zhang](https://faculty.sustech.edu.cn/?tagid=zhangj4&iscss=1&snapid=1&orderby=date&go=1&lang=en) in the Department of Computer Science and Engineering, Southern University of Science and Technology. I received the B.E. degree in Software Engineering from Xidian University, Shaanxi, China in 2018 and the Ph.D. degree in Computer Science advised by [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/) from City University of Hong Kong, Hong Kong, China in 2023.
 
+My research interests include mobile computing, smart sensing and cyber physical security.
+
 News
 ======
 One paper is accepted by EarComp'23!
@@ -32,17 +34,15 @@ IEEE Internet of Things Journal, 2020
 Awards
 ======
 INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
-Reasearch Tuition Scholarship, CityU, 2020  
+Research Tuition Scholarship, CityU, 2020  
 Outstanding Academic Performance Award, CityU, 2020  
 National Scholarship, Xidian University, 2016  
 National Scholarship, Xidian University, 2015  
-
 
 Teaching
 ======
 CS2310, CityU  
 CS2311, CityU  
-
 
 Contact Info
 ======
