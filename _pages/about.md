@@ -52,7 +52,7 @@ CS2311, CityU
 Contact Info
 ======
 cityulj67@gmail.com  
-jli242-c@my.cityu.edu.hk
+jli242-c@my.cityu.edu.hk  
 lij@sustech.edu.cn
 
 
