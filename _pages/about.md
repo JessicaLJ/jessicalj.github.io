@@ -14,10 +14,11 @@ My research interests include mobile computing, smart sensing and cyber physical
 
 News
 ======
-Our work EarPass: Continuous User Authentication with In-ear PPG has won the <font color=red>Best Paper Award</font> at EarComp 2023!
+Our work EarPass: Continuous User Authentication with In-ear PPG has won the **Best Paper Award** at EarComp 2023!
 
 Publications
 ======
+
 EarPass: Continuous User Authentication with In-ear PPG 
 **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang  
 EarComp, 2023
