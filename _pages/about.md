@@ -14,14 +14,13 @@ My research interests include mobile computing, smart sensing and cyber physical
 
 News
 ======
-Our work EarPass: Continuous User Authentication with In-ear PPG has won the **Best Paper Award** at EarComp 2023!
+Our work **EarPass: Continuous User Authentication with In-ear PPG** has won the <font color=red>Best Paper Award</font> at EarComp 2023!
 
 Publications
 ======
-
 EarPass: Continuous User Authentication with In-ear PPG 
 **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang  
-EarComp, 2023
+EarComp, 2023, <font color=red>Best Paper Award</font>
 
 GASLA: Enhancing the Applicability of Sign Language Translation  
 **Jiao Li**, Yang Liu, Weitao Xu, Zhenjiang Li  
@@ -38,6 +37,7 @@ IEEE Internet of Things Journal, 2020
 
 Awards
 ======
+Best Paper Award, EarComp, 2023
 INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
 Research Tuition Scholarship, CityU, 2020  
 Outstanding Academic Performance Award, CityU, 2020  
@@ -53,6 +53,7 @@ Contact Info
 ======
 cityulj67@gmail.com  
 jli242-c@my.cityu.edu.hk
+lij@sustech.edu.cn
 
 
 
