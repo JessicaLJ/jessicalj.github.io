@@ -18,7 +18,7 @@ Our work **EarPass: Continuous User Authentication with In-ear PPG** has won the
 
 Publications
 ======
-EarPass: Continuous User Authentication with In-ear PPG 
+EarPass: Continuous User Authentication with In-ear PPG   
 **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang  
 EarComp, 2023, <font color=red>Best Paper Award</font>
 
@@ -37,7 +37,7 @@ IEEE Internet of Things Journal, 2020
 
 Awards
 ======
-Best Paper Award, EarComp, 2023
+Best Paper Award, EarComp, 2023  
 INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
 Research Tuition Scholarship, CityU, 2020  
 Outstanding Academic Performance Award, CityU, 2020  
