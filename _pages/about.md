@@ -14,10 +14,18 @@ My research interests include mobile computing, smart sensing and cyber physical
 
 News
 ======
-Our work **EarPass: Continuous User Authentication with In-ear PPG** has won the <font color=red>Best Paper Award</font> at EarComp 2023!
+Our work AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones has been accepted at Ubicomp/ISWC 2024!
+Our work EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing  has been accepted at IMWUT2024!
 
 Publications
 ======
+HomeOSD: Appliance Operating-Status Detection Using mmWave Radar
+Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang
+
+Enhancing the Applicability of Sign Language Translation  
+**Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li  
+IEEE Transactions on Mobile Computing, 2024
+
 EarPass: Continuous User Authentication with In-ear PPG   
 **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang  
 EarComp, 2023, <font color=red>Best Paper Award</font>
