@@ -19,8 +19,9 @@ Our work EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Ac
 
 Publications
 ======
-HomeOSD: Appliance Operating-Status Detection Using mmWave Radar
-Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang
+HomeOSD: Appliance Operating-Status Detection Using mmWave Radar  
+Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang  
+Sensors, 2024
 
 Enhancing the Applicability of Sign Language Translation  
 **Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li  
