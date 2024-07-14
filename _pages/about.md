@@ -14,10 +14,10 @@ My research interests include mobile computing, smart sensing and cyber physical
 
 News
 ======
-<p><nobr>Our work AcousAF: Acoustic Sensing-Based Atrial Fibrillation</nobr> Detection System for Mobile Phones has been accepted at Ubicomp/ISWC 2024!</p>
+<p><nobr>Our work AcousAF: Acoustic Sensing-Based Atrial Fibrillation</nobr> Detection System for Mobile Phones has been accepted at Wellcomp 2024!</p>
 
 
-Our work EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing  has been accepted at IMWUT2024!    
+Our work EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing  has been accepted at IMWUT 2024!    
 
 Publications
 ======
