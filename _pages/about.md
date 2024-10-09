@@ -14,7 +14,8 @@ My research interests include mobile health and smart sensing.
 
 News
 ======
-Our work AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones has won the <font color=red>Best Paper Award</font> at Wellcomp!
+Our work AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones has won the <font color=red>Best Paper Award</font> at Wellcomp! 
+
 One poster titled FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor has been accepted by Sensys 2024.    
 
 Publications
