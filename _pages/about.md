@@ -19,12 +19,12 @@ One poster titled FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexibl
 
 Publications
 ======
-AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones
-Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang
+AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
+Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang  
 Wellcomp, 2024, <font color=red>Best Paper Award</font>
 
-EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing
-Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang
+EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing  
+Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang  
 IMWUT, 2024
 
 HomeOSD: Appliance Operating-Status Detection Using mmWave Radar  
