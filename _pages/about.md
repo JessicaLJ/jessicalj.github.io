@@ -16,13 +16,13 @@ News
 ======
 Our work AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones has won the <font color=red>Best Paper Award</font> at Wellcomp! 
 
-One poster titled FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor has been accepted by Sensys 2024.    
+One poster titled FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor has been accepted by SenSys 2024.    
 
 Publications
 ======
 AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
 Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang  
-Wellcomp, 2024, <font color=red>Best Paper Award</font>
+WellComp, 2024, <font color=red>Best Paper Award</font>
 
 EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing  
 Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang  
@@ -55,7 +55,7 @@ IEEE Internet of Things Journal, 2020
 
 Awards
 ======
-Best Paper Award, Wellcomp, 2024   
+Best Paper Award, WellComp, 2024   
 Best Paper Award, EarComp, 2023  
 INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
 Research Tuition Scholarship, CityU, 2020  
