@@ -55,13 +55,22 @@ IEEE Internet of Things Journal, 2020
 
 Awards
 ======
-Best Paper Award, WellComp, 2024   
-Best Paper Award, EarComp, 2023  
+<font color=red>Best Paper Award</font>, WellComp, 2024   
+<font color=red>Best Paper Award</font>, EarComp, 2023  
 INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
 Research Tuition Scholarship, CityU, 2020  
 Outstanding Academic Performance Award, CityU, 2020  
 National Scholarship, Xidian University, 2016  
 National Scholarship, Xidian University, 2015  
+
+Invited Reviewer
+======
+INFOCOM, ICDCS, ICPADS, IoTDI, PerCom
+
+Mentoring
+======
+Jiakai Xu, FYP, A-level, CityU
+Yujing Zhang, Bing Li, Yanxi Peng, China National University Student Innovation & Entrepreneurship Development Program, SUSTech
 
 Teaching
 ======
@@ -69,10 +78,9 @@ CS2310, CityU
 CS2311, CityU  
 
 Contact Info
-======
-cityulj67@gmail.com  
+====== 
 jli242-c@my.cityu.edu.hk  
 lij@sustech.edu.cn
-
+cityulj67@gmail.com 
 
 
