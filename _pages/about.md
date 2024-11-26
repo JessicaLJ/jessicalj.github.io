@@ -55,8 +55,8 @@ IEEE Internet of Things Journal, 2020
 
 Awards
 ======
-<font color=red>Best Paper Award, WellComp, 2024</font>  
-<font color=red>Best Paper Award, EarComp, 2023</font>  
+Best Paper Award, WellComp, 2024    
+Best Paper Award, EarComp, 2023  
 INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
 Research Tuition Scholarship, CityU, 2020  
 Outstanding Academic Performance Award, CityU, 2020  
