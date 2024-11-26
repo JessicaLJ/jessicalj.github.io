@@ -70,7 +70,7 @@ INFOCOM, ICDCS, ICPADS, IoTDI, PerCom
 Mentoring
 ======
 Jiakai Xu, FYP, A-level, CityU  
-Yujing Zhang, Bing Li, Yanxi Peng, China National University Student Innovation & Entrepreneurship Development Program, SUSTech
+Yujing Zhang, Bing Li, Yanxi Peng, National University Student Innovation & Entrepreneurship Development Program, SUSTech
 
 Teaching
 ======
