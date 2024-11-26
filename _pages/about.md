@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher advised by [Prof. Jin Zhang](https://faculty.sustech.edu.cn/?tagid=zhangj4&iscss=1&snapid=1&orderby=date&go=1&lang=en) in the Department of Computer Science and Engineering, Southern University of Science and Technology. I received the B.E. degree in Software Engineering from Xidian University, Shaanxi, China in 2018 and the Ph.D. degree in Computer Science advised by [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/) from City University of Hong Kong, Hong Kong, China in 2023.
 
-My research interests include mobile health and smart sensing.
+My research interests include mobile health, cyber security and smart sensing.
 
 News
 ======
@@ -55,7 +55,7 @@ IEEE Internet of Things Journal, 2020
 
 Awards
 ======
-<font color=red>Best Paper Award, WellComp, 2024</font>   
+<font color=red>Best Paper Award, WellComp, 2024</font>     
 <font color=red>Best Paper Award, EarComp, 2023</font> 
 INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
 Research Tuition Scholarship, CityU, 2020  
@@ -70,7 +70,8 @@ INFOCOM, ICDCS, ICPADS, IoTDI, PerCom
 Mentoring
 ======
 Jiakai Xu, FYP, A-level, CityU  
-Yujing Zhang, Bing Li, Yanxi Peng, National University Student Innovation & Entrepreneurship Development Program, SUSTech
+Yujing Zhang, Bing Li, Yanxi Peng, National University Student Innovation Entrepreneurship Development Program, SUSTech
+
 
 Teaching
 ======
