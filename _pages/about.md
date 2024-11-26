@@ -69,18 +69,18 @@ INFOCOM, ICDCS, ICPADS, IoTDI, PerCom
 
 Mentoring
 ======
-Jiakai Xu, FYP, A-level, CityU
+Jiakai Xu, FYP, A-level, CityU  
 Yujing Zhang, Bing Li, Yanxi Peng, China National University Student Innovation & Entrepreneurship Development Program, SUSTech
 
 Teaching
 ======
-CS2310, CityU  
+CS2310, CityU    
 CS2311, CityU  
 
 Contact Info
 ====== 
 jli242-c@my.cityu.edu.hk  
-lij@sustech.edu.cn
-cityulj67@gmail.com 
+lij@sustech.edu.cn  
+cityulj67@gmail.com   
 
 
