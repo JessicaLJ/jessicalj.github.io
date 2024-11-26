@@ -55,12 +55,12 @@ IEEE Internet of Things Journal, 2020
 
 Awards
 ======
-<font color=red>Best Paper Award, WellComp, 2024</font>     
-<font color=red>Best Paper Award, EarComp, 2023</font> 
-INFOCOM Student Conference Grant, IEEE INFOCOM, 2022    
-Research Tuition Scholarship, CityU, 2020    
-Outstanding Academic Performance Award, CityU, 2020    
-National Scholarship, Xidian University, 2016    
+<font color=red>Best Paper Award, WellComp, 2024</font>  
+<font color=red>Best Paper Award, EarComp, 2023</font>  
+INFOCOM Student Conference Grant, IEEE INFOCOM, 2022  
+Research Tuition Scholarship, CityU, 2020  
+Outstanding Academic Performance Award, CityU, 2020  
+National Scholarship, Xidian University, 2016  
 National Scholarship, Xidian University, 2015    
 
 Invited Reviewer
