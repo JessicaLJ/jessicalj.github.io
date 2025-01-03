@@ -20,7 +20,7 @@ One poster titled FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexibl
 
 Publications
 ======
-<span style="color:blue; font-weight:bold;">WellComp</span> AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
+AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
 Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang  
 WellComp, 2024, <font color=red>Best Paper Award</font>
 
