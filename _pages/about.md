@@ -14,12 +14,14 @@ My research interests include mobile health, cyber security and smart sensing.
 
 News
 ======
-Our work AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones has won the <font color=red>Best Paper Award</font> at WellComp! 
-
-One poster titled FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor has been accepted by SenSys 2024.    
+One paper has been conditionally accepted by ACM CHI 2025!
 
 Publications
 ======
+Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor
+Yujing Zhang, Bing Li, Yanxi Peng, **Jiao Li**, Tao Sun, Jin Zhang
+SenSys, 2024
+
 AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
 Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang  
 WellComp, 2024, <font color=red>Best Paper Award</font>
@@ -70,7 +72,7 @@ INFOCOM, ICDCS, ICPADS, IoTDI, PerCom
 Mentorship
 ======
 Jiakai Xu, FYP, A-level, CityU    
-Yujing Zhang, Bing Li, Yanxi Peng, National University Student Innovation Entrepreneurship Development Program, SUSTech    
+Yujing Zhang, Bing Li, Yanxi Peng, 大创国家级项目, SUSTech    
 Wenye Liu, Ziheng Zhou, Hongwei Liu, Climbing Plan, SUSTech
 
 
