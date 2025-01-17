@@ -14,7 +14,7 @@ My research interests include **Mobile Health, Cyber Security and Smart Sensing*
 
 News
 ======
-One paper has been conditionally accepted by ACM CHI 2025!
+One paper has been conditionally accepted by **ACM CHI 2025**!
 
 Publications
 ======
