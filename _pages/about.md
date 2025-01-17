@@ -22,8 +22,7 @@ Publications
 [Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor.](https://dl.acm.org/doi/abs/10.1145/3666025.3699415)
 
 **<font color=DeepPink>[WellComp'24]</font>** Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang.
-AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones.  
-**<font color=red>Best Paper Award</font>**
+[AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones.](https://dl.acm.org/doi/abs/10.1145/3675094.3678488) **<font color=red>Best Paper Award</font>**
 
 **<font color=DeepPink>[IMWUT'24]</font>** Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang. 
 EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing.
