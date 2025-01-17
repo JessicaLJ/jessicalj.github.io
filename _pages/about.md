@@ -18,8 +18,8 @@ One paper has been conditionally accepted by ACM CHI 2025!
 
 Publications
 ======
-Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor
-Yujing Zhang, Bing Li, Yanxi Peng, **Jiao Li**, Tao Sun, Jin Zhang
+Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor  
+Yujing Zhang, Bing Li, Yanxi Peng, **Jiao Li**, Tao Sun, Jin Zhang  
 SenSys, 2024
 
 AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
