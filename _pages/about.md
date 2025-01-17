@@ -19,14 +19,14 @@ One paper has been conditionally accepted by ACM CHI 2025!
 Publications
 ======
 **<font color=DeepPink>[SenSys'24]</font>** Yujing Zhang, Bing Li, Yanxi Peng, **Jiao Li**, Tao Sun, Jin Zhang. 
-Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor  
+[Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor.](https://dl.acm.org/doi/abs/10.1145/3666025.3699415)
 
 **<font color=DeepPink>[WellComp'24]</font>** Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang.
-AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
+AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones.  
 **<font color=red>Best Paper Award</font>**
 
 **<font color=DeepPink>[IMWUT'24]</font>** Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang. 
-EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing
+EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing.
 
 **<font color=DeepPink>[Sensors'24]</font>** Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang. HomeOSD: Appliance Operating-Status Detection Using mmWave Radar.
 
