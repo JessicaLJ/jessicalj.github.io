@@ -25,20 +25,19 @@ Publications
 [AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones.](https://dl.acm.org/doi/abs/10.1145/3675094.3678488) **<font color=red>Best Paper Award</font>**
 
 **<font color=DeepPink>[IMWUT'24]</font>** Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang. 
-EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing.
+[EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing.](https://dl.acm.org/doi/abs/10.1145/3678541)
 
-**<font color=DeepPink>[Sensors'24]</font>** Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang. HomeOSD: Appliance Operating-Status Detection Using mmWave Radar.
+**<font color=DeepPink>[Sensors'24]</font>** Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang. [HomeOSD: Appliance Operating-Status Detection Using mmWave Radar.](https://www.mdpi.com/1424-8220/24/9/2911)
 
-**<font color=DeepPink>[TMC'24]</font>** **Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li. Enhancing the Applicability of Sign Language Translation.
+**<font color=DeepPink>[TMC'24]</font>** **Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li. [Enhancing the Applicability of Sign Language Translation.](Enhancing the Applicability of Sign Language Translation) 
 
-**<font color=DeepPink>[EarComp'23]</font>** **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang. EarPass: Continuous User Authentication with In-ear PPG.
-**<font color=red>Best Paper Award</font>**
+**<font color=DeepPink>[EarComp'23]</font>** **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang. [EarPass: Continuous User Authentication with In-ear PPG.](https://dl.acm.org/doi/abs/10.1145/3594739.3610670) **<font color=red>Best Paper Award</font>**
 
-**<font color=DeepPink>[INFOCOM'22]</font>** **Jiao Li**, Yang Liu, Weitao Xu, Zhenjiang Li. GASLA: Enhancing the Applicability of Sign Language Translation.
+**<font color=DeepPink>[INFOCOM'22]</font>** **Jiao Li**, Yang Liu, Weitao Xu, Zhenjiang Li. [GASLA: Enhancing the Applicability of Sign Language Translation.](https://ieeexplore.ieee.org/abstract/document/9796819)
 
-**<font color=DeepPink>[TMC'22]</font>** Zhen Xiao, Tao Chen, Yang Liu, **Jiao Li**, Zhenjiang Li. Keystroke Recognition with the Tapping Sound Recorded by Mobile Phone Microphones. 
+**<font color=DeepPink>[TMC'22]</font>** Zhen Xiao, Tao Chen, Yang Liu, **Jiao Li**, Zhenjiang Li. [Keystroke Recognition with the Tapping Sound Recorded by Mobile Phone Microphones.](https://ieeexplore.ieee.org/abstract/document/9658138)
 
-**<font color=DeepPink>[IOTJ'20]</font>** **Jiao Li**, Yang Liu, Tao Chen, Zhen Xiao, Zhenjiang Li, Jianping Wang. Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey.  
+**<font color=DeepPink>[IOTJ'20]</font>** **Jiao Li**, Yang Liu, Tao Chen, Zhen Xiao, Zhenjiang Li, Jianping Wang. [Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey.](https://ieeexplore.ieee.org/abstract/document/9006862)  
 
 Awards
 ======
