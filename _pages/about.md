@@ -18,42 +18,28 @@ One paper has been conditionally accepted by ACM CHI 2025!
 
 Publications
 ======
-**<font color=DeepPink>[SenSys'24]</font>** Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor  
-Yujing Zhang, Bing Li, Yanxi Peng, **Jiao Li**, Tao Sun, Jin Zhang  
-SenSys, 2024
+**<font color=DeepPink>[SenSys'24]</font>** Yujing Zhang, Bing Li, Yanxi Peng, **Jiao Li**, Tao Sun, Jin Zhang. 
+Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor  
 
-**<font color=DeepPink>[WellComp'24]</font>** AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
-Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang  
-WellComp, 2024, **<font color=red>Best Paper Award</font>**
+**<font color=DeepPink>[WellComp'24]</font>** Xuanyu Liu, Haoxian Liu, **Jiao Li**, Zongqi Yang, Yi Huang, Jin Zhang.
+AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones  
+**<font color=red>Best Paper Award</font>**
 
-**<font color=DeepPink>[IMWUT'24]</font>** EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing  
-Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang  
-IMWUT, 2024
+**<font color=DeepPink>[IMWUT'24]</font>** Tao Sun, Yankai Zhao, Wentao Xie, **Jiao Li**, Yongyu Ma, Jin Zhang. 
+EyeGesener: Eye Gesture Listener for Smart Glasses Interaction using Acoustic Sensing
 
-**<font color=DeepPink>[Sensors'24]</font>** HomeOSD: Appliance Operating-Status Detection Using mmWave Radar  
-Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang  
-Sensors, 2024
+**<font color=DeepPink>[Sensors'24]</font>** Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang. HomeOSD: Appliance Operating-Status Detection Using mmWave Radar.
 
-**<font color=DeepPink>[TMC'24]</font>** Enhancing the Applicability of Sign Language Translation  
-**Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li  
-IEEE Transactions on Mobile Computing, 2024
+**<font color=DeepPink>[TMC'24]</font>** **Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li. Enhancing the Applicability of Sign Language Translation.
 
-**<font color=DeepPink>[EarComp'23]</font>** EarPass: Continuous User Authentication with In-ear PPG   
-**Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang  
-EarComp, 2023, **<font color=red>Best Paper Award</font>**
+**<font color=DeepPink>[EarComp'23]</font>** **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang. EarPass: Continuous User Authentication with In-ear PPG.
+**<font color=red>Best Paper Award</font>**
 
-**<font color=DeepPink>[INFOCOM'22]</font>** GASLA: Enhancing the Applicability of Sign Language Translation  
-**Jiao Li**, Yang Liu, Weitao Xu, Zhenjiang Li  
-IEEE INFOCOM, 2022
+**<font color=DeepPink>[INFOCOM'22]</font>** **Jiao Li**, Yang Liu, Weitao Xu, Zhenjiang Li. GASLA: Enhancing the Applicability of Sign Language Translation.
 
-**<font color=DeepPink>[TMC'22]</font>** Keystroke Recognition with the Tapping Sound Recorded by Mobile Phone Microphones  
-Zhen Xiao, Tao Chen, Yang Liu, **Jiao Li**, Zhenjiang Li  
-IEEE Transactions on Mobile Computing, 2022
+**<font color=DeepPink>[TMC'22]</font>** Zhen Xiao, Tao Chen, Yang Liu, **Jiao Li**, Zhenjiang Li. Keystroke Recognition with the Tapping Sound Recorded by Mobile Phone Microphones. 
 
-**<font color=DeepPink>[IOTJ'20]</font>** Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey  
-**Jiao Li**, Yang Liu, Tao Chen, Zhen Xiao, Zhenjiang Li, Jianping Wang  
-IEEE Internet of Things Journal, 2020
-
+**<font color=DeepPink>[IOTJ'20]</font>** **Jiao Li**, Yang Liu, Tao Chen, Zhen Xiao, Zhenjiang Li, Jianping Wang. Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey.  
 
 Awards
 ======
