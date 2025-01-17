@@ -29,7 +29,7 @@ Publications
 
 **<font color=DeepPink>[Sensors'24]</font>** Yinhe Sheng, **Jiao Li**, Yongyu Ma, Jin Zhang. [HomeOSD: Appliance Operating-Status Detection Using mmWave Radar.](https://www.mdpi.com/1424-8220/24/9/2911)
 
-**<font color=DeepPink>[TMC'24]</font>** **Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li. [Enhancing the Applicability of Sign Language Translation.](Enhancing the Applicability of Sign Language Translation) 
+**<font color=DeepPink>[TMC'24]</font>** **Jiao Li**, Jiakai Xu, Yang Liu, Weitao Xu, Zhenjiang Li. [Enhancing the Applicability of Sign Language Translation.](https://ieeexplore.ieee.org/abstract/document/10381803) 
 
 **<font color=DeepPink>[EarComp'23]</font>** **Jiao Li**, Yang Liu, Zhenjiang Li, Jin Zhang. [EarPass: Continuous User Authentication with In-ear PPG.](https://dl.acm.org/doi/abs/10.1145/3594739.3610670) **<font color=red>Best Paper Award</font>**
 
