@@ -14,7 +14,7 @@ My research interests include **Mobile Health, Cyber Security** and **Smart Sens
 
 News
 ======
-One paper has been conditionally accepted by **ACM CHI 2025**!
+Our recent work *PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing* has been conditionally accepted by ACM CHI 2025.
 
 Publications
 ======
