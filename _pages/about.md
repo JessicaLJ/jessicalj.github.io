@@ -37,7 +37,7 @@ Publications
 
 **<font color=purple>[TMC'22]</font>** Zhen Xiao, Tao Chen, Yang Liu, **Jiao Li**, Zhenjiang Li. [Keystroke Recognition with the Tapping Sound Recorded by Mobile Phone Microphones.](https://ieeexplore.ieee.org/abstract/document/9658138)
 
-**<font color=purple>[IOTJ'20]</font>** **Jiao Li**, Yang Liu, Tao Chen, Zhen Xiao, Zhenjiang Li, Jianping Wang. [Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey.](https://ieeexplore.ieee.org/abstract/document/9006862)  
+**<font color=purple>[IOTJ'20]</font>** **Jiao Li**, Yang Liu, Tao Chen, Zhen Xiao, Zhenjiang Li, Jianping Wang. [Adversarial Attacks and Defenses on Cyber-Physical Systems: A Survey.](https://ieeexplore.ieee.org/abstract/document/9006862), *IEEE Internet of Things Journal*, 7(6), 5103-5115, 2020
 
 Awards
 ======
