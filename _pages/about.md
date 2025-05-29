@@ -14,7 +14,7 @@ My research interests include **Mobile Health, Cyber Security** and **Smart Sens
 
 News
 ======
-Our recent work *Shortening Scanning Trajectory in Single-Transceiver SAR Imaging via Offset-Based Range Focusing* has been accepted by *IEEE Transactions on Microwave Theory and Techniques*.
+Our recent work *Shortening Scanning Trajectory in Single-Transceiver SAR Imaging via Offset-Based Range Focusing* has been accepted by IEEE Transactions on Microwave Theory and Techniques.
 
 Publications
 ======
