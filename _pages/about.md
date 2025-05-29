@@ -14,10 +14,13 @@ My research interests include **Mobile Health, Cyber Security** and **Smart Sens
 
 News
 ======
-Our recent work *PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing* has been conditionally accepted by ACM CHI 2025.
+Our recent work *Shortening Scanning Trajectory in Single-Transceiver SAR Imaging via Offset-Based Range Focusing* has been accepted by *IEEE Transactions on Microwave Theory and Techniques*.
 
 Publications
 ======
+**<font color=purple>[CHI'25]</font>** Yankai Zhao, Jin Zhang, **Jiao Li**, Tao Sun. 
+[PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing](https://dl.acm.org/doi/abs/10.1145/3706598.3713211), In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*, 2025, 1-22.
+
 **<font color=purple>[SenSys'24]</font>** Yujing Zhang, Bing Li, Yanxi Peng, **Jiao Li**, Tao Sun, Jin Zhang. 
 [Poster: FlexibleBP: Blood Pressure Monitoring Using Wrist-worn Flexible Sensor](https://dl.acm.org/doi/abs/10.1145/3666025.3699415), In *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems*, 2024, 875-876.
 
