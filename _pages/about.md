@@ -14,10 +14,13 @@ My research interests include **Mobile Health, Cyber Security** and **Smart Sens
 
 News
 ======
-Our recent work *Shortening Scanning Trajectory in Single-Transceiver SAR Imaging via Offset-Based Range Focusing* has been accepted by IEEE Transactions on Microwave Theory and Techniques.
+Our recent work *Earable-based Continuous Blood Pressure Monitoring via a Single-Point Flexible Sensor* has been accepted by ACM EarComp 2025.
 
 Publications
 ======
+**<font color=purple>[TMTT'25]</font>** Yinhe Sheng, Bai Yan, **Jiao Li**, Xin Ma, Jin Zhang. 
+[Shortening Scanning Trajectory in Single-Transceiver SAR Imaging via Offset-Based Range Focusing](https://ieeexplore.ieee.org/abstract/document/11023618), Early Access.
+
 **<font color=purple>[CHI'25]</font>** Yankai Zhao, Jin Zhang, **Jiao Li**, Tao Sun. 
 [PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing](https://dl.acm.org/doi/abs/10.1145/3706598.3713211), In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*, 2025, 1-22.
 
