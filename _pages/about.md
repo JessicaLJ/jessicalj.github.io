@@ -14,8 +14,9 @@ My research interests include **Mobile Health, Cyber Security** and **Smart Sens
 
 News
 ======
-**<font color=red>[08/2025]</font>** Our recent work *Atrial Fibrillation Detection System via Acoustic Sensing for Mobile Phones* has been accepted by ACM TOSN 2025.
-**<font color=red>[07/2025]</font>** Our recent work *Earable-based Continuous Blood Pressure Monitoring via a Single-Point Flexible Sensor* has been accepted by ACM EarComp 2025.
+**<font color=blue>[08/2025]</font>** Our recent work *Atrial Fibrillation Detection System via Acoustic Sensing for Mobile Phones* has been accepted by ACM TOSN 2025.
+
+**<font color=blue>[07/2025]</font>** Our recent work *Earable-based Continuous Blood Pressure Monitoring via a Single-Point Flexible Sensor* has been accepted by ACM EarComp 2025.
 
 Publications
 ======
