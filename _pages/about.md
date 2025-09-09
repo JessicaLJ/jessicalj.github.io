@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher advised by [Prof. Jin Zhang](https://faculty.sustech.edu.cn/?tagid=zhangj4&iscss=1&snapid=1&orderby=date&go=1&lang=en) in the Department of Computer Science and Engineering, Southern University of Science and Technology. I received the B.E. degree in Software Engineering from Xidian University, Shaanxi, China in 2018 and the Ph.D. degree in Computer Science advised by [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/) from City University of Hong Kong, Hong Kong, China in 2023.
 
-My research interests include **Mobile Health, Cyber Security** and **Smart Sensing**.
+My research interests include **Mobile Health**, **Smart Sensing**, **Human–Computer Interaction**, and **Cyber Security**.
 
 News
 ======
@@ -64,7 +64,7 @@ INFOCOM, ICDCS, ICPADS, IoTDI, PerCom
 Mentorship
 ======
 Jiakai Xu, FYP, A-level, CityU    
-Yujing Zhang, Bing Li, Yanxi Peng, 大创国家级项目, SUSTech    
+Yujing Zhang, Bing Li, Yanxi Peng, **国家级国创优秀结题项目**, SUSTech    
 Wenye Liu, Ziheng Zhou, Hongwei Liu, Climbing Plan, SUSTech
 
 
