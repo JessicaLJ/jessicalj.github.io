@@ -65,10 +65,10 @@ INFOCOM, ICDCS, ICPADS, IoTDI, PerCom, Sensors
 
 Mentorship
 ======
-Jiakai Xu, 《Enhanced Sign Language Translation System》, FYP(A-level), CityU    
-Yujing Zhang, Bing Li, Yanxi Peng, 《基于柔性材料的无袖带式血压连续监测系统》, **国家级国创优秀结题项目**, Funding: 2w, SUSTech    
-Wenye Liu, Ziheng Zhou, Hongwei Liu, 《基于柔性传感器的OSA患者夜间血压与心血管风险监测系统》, Climbing Plan, Funding: 1.5w, SUSTech
-Yujing Zhang, 《基于可穿戴设备的夜间血压动态监测》, FYP, SUSTech
+[2022-2023] Jiakai Xu, 《Enhanced Sign Language Translation System》, FYP(A-level), CityU    
+[2023-2024] Yujing Zhang, Bing Li, Yanxi Peng, 《基于柔性材料的无袖带式血压连续监测系统》, **国家级国创优秀结题项目**, Funding: 2w, SUSTech    
+[2024-2025] Wenye Liu, Ziheng Zhou, Hongwei Liu, 《基于柔性传感器的OSA患者夜间血压与心血管风险监测系统》, Climbing Plan, Funding: 1.5w, SUSTech
+[2024-2025] Yujing Zhang, 《基于可穿戴设备的夜间血压动态监测》, FYP, SUSTech
 
 Teaching
 ======
