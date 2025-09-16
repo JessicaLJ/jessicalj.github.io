@@ -14,6 +14,8 @@ My research interests include **Mobile Health**, **Smart Sensing**, **Human–Co
 
 News
 ======
+**<font color=blue>[09/2025]</font>** Our recent work *Biometric Authentication Using Smartphone-Generated Acoustic Signals Modulated by Vascular Dynamics* has been accepted by ACM IASA 2025. 
+
 **<font color=blue>[08/2025]</font>** Our recent work *Atrial Fibrillation Detection System via Acoustic Sensing for Mobile Phones* has been accepted by ACM TOSN 2025.
 
 **<font color=blue>[07/2025]</font>** Our recent work *Earable-based Continuous Blood Pressure Monitoring via a Single-Point Flexible Sensor* has been accepted by ACM EarComp 2025.
