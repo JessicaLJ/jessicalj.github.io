@@ -1,4 +1,4 @@
----
+<img width="877" height="70" alt="image" src="https://github.com/user-attachments/assets/6fb7d4ef-f3a4-404c-b0c4-b0a73551da28" />---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -61,19 +61,20 @@ National Scholarship, Xidian University, 2015
 
 Invited Reviewer
 ======
-INFOCOM, ICDCS, ICPADS, IoTDI, PerCom
+INFOCOM, ICDCS, ICPADS, IoTDI, PerCom, Sensors
 
 Mentorship
 ======
-Jiakai Xu, FYP, A-level, CityU    
-Yujing Zhang, Bing Li, Yanxi Peng, **国家级国创优秀结题项目**, SUSTech    
-Wenye Liu, Ziheng Zhou, Hongwei Liu, Climbing Plan, SUSTech
-
+Jiakai Xu, 《Enhanced Sign Language Translation System》, FYP(A-level), CityU    
+Yujing Zhang, Bing Li, Yanxi Peng, 《基于柔性材料的无袖带式血压连续监测系统》, **国家级国创优秀结题项目**, Funding: 2w, SUSTech    
+Wenye Liu, Ziheng Zhou, Hongwei Liu, 《基于柔性传感器的OSA患者夜间血压与心血管风险监测系统》, Climbing Plan, Funding: 1.5w, SUSTech
+Yujing Zhang, 《基于可穿戴设备的夜间血压动态监测》, FYP, SUSTech
 
 Teaching
 ======
-CS2310, CityU    
-CS2311, CityU  
+CS2310, Java Programming, CityU    
+CS2311, C++ Programming, CityU  
+
 
 Contact Info
 ====== 
